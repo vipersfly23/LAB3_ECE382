@@ -17,6 +17,8 @@ Required Functionality [COMPLETED]:
 ###Implementation  
 
   Basic Understanding of the following table will allow implementation of required functionality.
+  
+    ![alt text](https://raw.githubusercontent.com/vipersfly23/LAB3_ECE382/master/PreLab3.GIF "PreLab3 Data Table")
 
 ###Code
 
@@ -30,12 +32,12 @@ Register Definition:
 #####Result:
   Data/Command:
   
-  ![alt text](https://github.com/vipersfly23/CE3_Her/blob/master/Moore_Simulation.GIF?raw=true "simulation result")
+  ![alt text](https://raw.githubusercontent.com/vipersfly23/LAB3_ECE382/master/datacmd.jpg "Command/Data Bit")
 
   
   8 data bit:
   
-   ![alt text](https://github.com/vipersfly23/CE3_Her/blob/master/Moore_Simulation.GIF?raw=true "simulation result")
+   ![alt text](https://raw.githubusercontent.com/vipersfly23/LAB3_ECE382/master/8data.GIF "8data bit")
 
 Line | R12 | R13 | purpose
 --- | --- | --- | ---
@@ -91,7 +93,7 @@ The main portion of the Lab was given by instructor which draws a 1 pixel wide b
 The testing could be verified by the image below. It shows the previous location of the box, by using the directional pads
 I was able to draw a H:
 
- ![alt text](https://github.com/vipersfly23/CE3_Her/blob/master/Moore_Simulation.GIF?raw=true "simulation result")
+ ![alt text](https://raw.githubusercontent.com/vipersfly23/LAB3_ECE382/master/result.jpg "Results")
 
 
 ###Conclusions/Lessons Learned
