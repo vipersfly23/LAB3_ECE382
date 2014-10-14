@@ -32,10 +32,15 @@ Register Definition:
   
   8 data bit:
   |line|R12   |R13   |Purpose                 |
+  
   |----|:----:|:----:|:-----------------------|
+  
   |66  |0x0001|0x00E7|Beam with 2 pixel holes |
+  
   |276 |0x0000|0x00B0|select row              |
+  
   |288 |0x0000|0x0010|select columns          |
+  
   |294 |0x0000|0x0000|copies stack            |
   
 
