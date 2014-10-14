@@ -31,11 +31,16 @@ Register Definition:
   Data/Command:
   
   8 data bit:
-  |line|R12|R13|Purpose|
-  |66 |0x0001|0x00E7|Beam with 2 pixel holes|
-  |276|0x0000|0x00B0|select row|
-  |288|0x0000|0x0010|select columns|
-  |294|0x0000|0x0000|copies stack|
+  line|R12|R13|Purpose
+  
+  66 |0x0001|0x00E7|Beam with 2 pixel holes
+  
+  276|0x0000|0x00B0|select row|
+  
+  288|0x0000|0x0010|select columns
+  
+  294|0x0000|0x0000|copies stack
+  
 
 The main portion of the Lab was given by instructor which draws a 1 pixel wide by 8 pixel high, with a two pixel hole in the middle.
 
