@@ -18,7 +18,7 @@ Required Functionality [COMPLETED]:
 
   Basic Understanding of the following table will allow implementation of required functionality.
   
-    ![alt text](https://raw.githubusercontent.com/vipersfly23/LAB3_ECE382/master/PreLab3.GIF "PreLab3 Data Table")
+![alt text](https://raw.githubusercontent.com/vipersfly23/LAB3_ECE382/master/PreLab3.GIF "PreLab3 Data Table")
 
 ###Code
 
