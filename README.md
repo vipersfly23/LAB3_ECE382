@@ -40,10 +40,11 @@ Register Definition:
 |294 |0x0000|0x0000|copies stack            |
   
 
-Markdown | Less | Pretty | purpose
+Line | R12 | R13 | purpose
 --- | --- | --- | ---
-*Still* | `renders` | **nicely** | Hunter
-1 | 2 | 3 | n
+66  |0x0001|0x00E7|Beam with 2 pixel holes
+288 |0x0000|0x0010|select columns
+294 |0x0000|0x0000|copies stack
 
 
 The main portion of the Lab was given by instructor which draws a 1 pixel wide by 8 pixel high, with a two pixel hole in the middle.
