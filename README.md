@@ -105,4 +105,4 @@ I was able to draw a H:
 
 ####Documentation:
   I used the ECE382.com website to access lab information and used the website to obtain the instruction sheet for the assembly
-  language. No other help received.
+  language. I received helped from Taylor Bodin on how to use the data analyzer and what to look for on the display. Erica Lewondski helped me set up the pins for the data analyzer and the MSP430. Dustin Weisner explained the two tables and the purpose of the two tables in the lab.
