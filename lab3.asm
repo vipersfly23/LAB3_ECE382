@@ -53,6 +53,7 @@ main:
 	clr		R11
 
 while1:
+
 	bit.b	#2, &P2IN					; bit 1 of P1IN set?
 	jz Right
 	bit.b	#4, &P2IN					; bit 2 of P1IN set?
