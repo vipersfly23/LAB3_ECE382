@@ -30,10 +30,12 @@ Register Definition:
 #####Result:
   Data/Command:
   
-  8 data bit:
-  
+  ![alt text](https://github.com/vipersfly23/CE3_Her/blob/master/Moore_Simulation.GIF?raw=true "simulation result")
 
   
+  8 data bit:
+  
+   ![alt text](https://github.com/vipersfly23/CE3_Her/blob/master/Moore_Simulation.GIF?raw=true "simulation result")
 
 Line | R12 | R13 | purpose
 --- | --- | --- | ---
@@ -59,12 +61,12 @@ The main portion of the Lab was given by instructor which draws a 1 pixel wide b
 
   
     My methodology was dividing and conquered. I knew that if I can manipulate the left/right/up/down function if I understood 
-    which registered stored the address. Once I figured that out, I simply added the buttons in using the already given code but 
-    looked at different pins. I then simply added if statements and kept the set up the same. The main purpose of the "if" statements
-    was so I could change the task of each button.
+    which registered stored the address. Once I figured that out, I simply added the buttons in using the already given code 
+    but looked at different pins. I then simply added if statements and kept the set up the same. The main purpose of the "if"
+    statements was so I could change the task of each button.
    
-    My biggest issue was understaning the given code. It took awhile to figure out what I had to do to adjust the code so that it
-    would work accordingly. After figuring out the code, it was simple coding.
+    My biggest issue was understaning the given code. It took awhile to figure out what I had to do to adjust the code so
+    that it would work accordingly. After figuring out the code, it was simple coding.
 
 #####Commit 1
 
@@ -88,6 +90,8 @@ The main portion of the Lab was given by instructor which draws a 1 pixel wide b
 
 The testing could be verified by the image below. It shows the previous location of the box, by using the directional pads
 I was able to draw a H:
+
+ ![alt text](https://github.com/vipersfly23/CE3_Her/blob/master/Moore_Simulation.GIF?raw=true "simulation result")
 
 
 ###Conclusions/Lessons Learned
