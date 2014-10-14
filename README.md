@@ -31,6 +31,7 @@ Register Definition:
   Data/Command:
   
   8 data bit:
+  
   |line|R12   |R13   |Purpose                 |
   
   |----|:----:|:----:|:-----------------------|
