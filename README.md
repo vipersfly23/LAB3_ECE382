@@ -40,10 +40,10 @@ Register Definition:
 |294 |0x0000|0x0000|copies stack            |
   
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Markdown | Less | Pretty | purpose
+--- | --- | --- | ---
+*Still* | `renders` | **nicely** | Hunter
+1 | 2 | 3 | n
 
 
 The main portion of the Lab was given by instructor which draws a 1 pixel wide by 8 pixel high, with a two pixel hole in the middle.
